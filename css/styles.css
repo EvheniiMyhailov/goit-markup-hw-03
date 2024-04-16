@@ -146,10 +146,7 @@ background-color: #404BBF;
 background-color: #F4F4FD;
 padding: 120px 0;
 }
-.features-head {
-  margin-bottom: 8px;
- 
-}
+
 .features-list {
 background-color: #FFFFFF;
 display: flex;
@@ -165,12 +162,14 @@ padding: 120px 0 120px;
   color: #2e2f42;
   width: calc((100% - 72px) / 4);
 }
+
 .features-subtitle {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
+margin-bottom: 8px;
 }
 
 .features-text {
@@ -195,6 +194,9 @@ text-transform: capitalize;
 color: #2e2f42 ;
 margin-bottom: 72px; 
 }
+.div-container{
+  padding: 32px 0;
+}
    .team-list{
  background-color: #FFFFFF;
  display: flex;  
@@ -214,6 +216,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+margin-bottom: 8px;
 }
 .team-text {
 font-weight: 400;
